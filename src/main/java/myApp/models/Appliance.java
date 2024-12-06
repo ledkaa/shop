@@ -1,4 +1,4 @@
-package models;
+package myApp.models;
 
 public class Appliance {
     private Long id;

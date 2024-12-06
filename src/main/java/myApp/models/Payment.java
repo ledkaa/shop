@@ -1,4 +1,4 @@
-package models;
+package myApp.models;
 
 public class Payment {
     private Long paymentId;
